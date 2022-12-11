@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Hand Presence Physics.unity
+    guid: d4dd7f9db7af944419ff9a495b1f950c
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 30e7190950cb57d46a957482e2765827, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 7d21ea5b31dd7974f8d26c94130a3b6a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e621e4ba22c3be7499b06f0b24afc1b6, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: daae4a7524d731748991b124d79cbcca, type: 2}
